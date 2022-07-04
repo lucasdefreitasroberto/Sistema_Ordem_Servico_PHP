@@ -2,8 +2,8 @@
  Sistema_Ordem_Servico_PHP
 	
 	Utilizando 
-PHP
-CodeIgniter
-Benedmunds
-MySql
-IDE VSCode
+PHP;
+CodeIgniter;
+Benedmunds;
+MySql;
+IDE VSCode;
