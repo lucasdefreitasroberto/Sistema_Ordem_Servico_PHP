@@ -1,10 +1,10 @@
-<?php $this->load->view('Layout/sidebar'); ?>
+<?php $this->load->view('layout/sidebar'); ?>
 
 
 <!-- Main Content -->
 <div id="content">
 
-    <?php $this->load->view('Layout/navbar'); ?>
+    <?php $this->load->view('layout/navbar'); ?>
     <!-- Begin Page Content -->
     <div class="container-fluid">
 
