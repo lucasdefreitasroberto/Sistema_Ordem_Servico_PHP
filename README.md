@@ -9,6 +9,6 @@ MySql;
 IDE VSCode;
 
 
-	SISTEMA SENDO CONSTRUIDO ! 
+	Sistema Sendo Construido ! 
 	
 	
